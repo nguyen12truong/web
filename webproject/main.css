@@ -1,0 +1,46 @@
+:root
+{
+    --text-color: black;
+}
+* {
+    color: var(--text-color)
+}
+html {
+    background-image: url(https://image.freepik.com/free-vector/pastel-color-stripe-background-pattern_2239-342.jpg);
+    /* background-image: linear-gradient(0, #333, #ccc, 0.5); */
+    background-size: 100px;
+}
+h2 {
+    color: rgb(58, 204, 129);
+}
+
+.header {
+    position: fixed;
+    height: 50px;
+    background-color: blue;
+    top: 0;
+    left: 0;
+    right: 0
+}
+.nav {
+    display: flex;
+    position: fixed;
+    width: 100%;
+    height: 50px;
+    background-color: #ccc;
+    bottom: 0;
+    justify-content: space-between;
+}
+.global-layout {
+    background-color: #fff;
+    width: 100%;
+    display: flex;
+
+}
+.colume-item {
+    flex: 1;
+    padding: 0 16px
+}
+.main-sidebar {
+    flex: 2;
+}

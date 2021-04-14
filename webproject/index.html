@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            thuattoantoiuu
+        </title>
+        <meta charset="utf-8">
+        <link rel="stylesheet" href="main.css">
+        <style>
+            h1 {
+                color: rgb(0, 153, 255);
+            }
+            li {
+                color:purple;
+            }
+            .box {
+                /* width: 100vw;
+                height: 7vh; */
+                width: 100%;
+                height: 200px;
+                color: green;
+                background-color: yellow;
+                background-image: url(data:image/jpeg;base64,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);
+                background-size: 100px;
+            }
+            .box1 {
+                background-color: purple;
+                padding: 9px;
+                border-style: solid;
+                border-color: saddlebrown;
+            }
+            li:first-child {
+            color: green
+            }
+            li:hover {
+                color:white
+            }
+            li:active {
+                color: red;
+                font-size: 10px;
+            }
+            #first-title {
+                padding-top: 50px;
+            }
+        </style>
+
+    </head>
+    <!-- body ò the ưeb -->
+    <body>
+        <div class="header">
+            <h3>Đăng nhập</h3>
+        </div>
+        <h1 id="first-title">Thuat toan toi uu</h1>
+        <!-- <h2 title="w:1000,v:0.2">se phat trien manh</h2> -->
+        <div class='global-layout'>
+            <div class='colume-item sidebar1'>
+                <h3>
+                    Hiệu quả
+                </h3>
+                <p>
+                    Với cùng một lượng xe nhất định, với lộ trình được tối ưu, các nhà kho tăng
+                    đến 30% mức giao hàng.
+                </p>
+            </div>
+            <div class='colume-item main-sidebar'>
+                <h3>
+                    Kinh tế
+                </h3>
+                <p>
+                    Các nhà kho không mất nhân lực để gán lộ trình.
+                    Chúng tôi có thể giúp các nhà vận tải giảm từ 3
+                    đến 10 nhân lực lao động.
+                </p>
+                
+            </div>
+            <div class='colume-item sidebar2'>
+                <h3>
+                    Phát triển tương lai
+                </h3>
+                <p> 
+                    Chúng tôi còn có thể làm những vấn đề tối ưu khác
+                    để có thể giúp các doanh nghiệp phát triển tốt nhất.
+                </p>
+                
+            </div>
+        </div>
+        <p>Mở đầu xin được phân tích giá trị sử dụng của sản phẩm. Ban đầu hãy chú ý những gì cần làm.</p>
+        <img src="https://tiasang.com.vn/Portals/0/imagesim-4652.jpg" alt="ABC">
+
+        <a href="https://tiasang.com.vn/khoa-hoc-cong-nghe/Giai-thich-hap-dan-khong-can-ly-thuyet-day-26623"> Trang tia sang</a>
+        <ul>
+            <li>a</li>
+            <li>b</li>
+            <li>d</li>
+            <li>mhh</li>
+            <li>76</li>
+        </ul>
+   
+        <table>
+            <thead>
+                <th>Số Thứ Tự              </th>
+                <th>Tên</th>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>1</td>
+                    <td>Nguyễn Hải Đăng</td>
+                </tr>
+            </tbody>
+        </table>
+        <h2 style="color: violet">
+            2. Priority is CSS
+        </h2>
+        <ol>
+            <li>Iternal, External</li>
+            <li>Inline</li>
+            <li># Id</li>
+            <li>.class</li>
+            <li>tag</li>
+            <li>equaly specification</li>
+            <li>Universal selector</li>
+        </ol>
+        <!-- function: 
+            var(), linear-gradient(), rgba(), rgb(), calc(), attr() -->
+
+        <!-- peusedo class:
+                :root, :hover, :active, :first-child, :last-child
+             -->
+        <div class="box box1">Box1</div>
+        <div class="box box2">Box2</div>
+        <div class="box box3">Box3</div>
+        <div class='nav'>
+            <ul class='nav-list'> Special1</ul>
+            <ul class='nav-list'>
+                Special2
+                <li>
+                    Hay lam1
+                </li>
+                <li>
+                    Hay lam2
+                </li>
+            </ul>
+        </div>
+    </body>
+</html>
