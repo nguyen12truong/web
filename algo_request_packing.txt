@@ -1,0 +1,1154 @@
+{
+    "input": {
+        "type_load": "FILO",
+        "product_proximity": 10,
+        "priority_sort_items": "",
+        "priority_dimension_container": "WHL",
+        "stop": [
+            {
+                "customerCode": "5000014673",
+                "order_ID": [
+                    "9520859938"
+                ]
+            },
+            {
+                "customerCode": "6000013738",
+                "order_ID": [
+                    "9520861021",
+                    "9520858885"
+                ]
+            },
+            {
+                "customerCode": "5000014630",
+                "order_ID": [
+                    "9520859925"
+                ]
+            },
+            {
+                "customerCode": "6000009363",
+                "order_ID": [
+                    "9520860498",
+                    "9520860490"
+                ]
+            },
+            {
+                "customerCode": "5000014629",
+                "order_ID": [
+                    "9520859926"
+                ]
+            }
+        ],
+        "order": [
+            {
+                "order_ID": "9520859938",
+                "customerCode": "5000014673",
+                "product_ID": "SKU535",
+                "productCode": "MJ-DJ01SRA",
+                "productName": "MJ-DJ01SRA",
+                "productVolume": 0.03375,
+                "productWeight": 4,
+                "productLength": 0.3,
+                "productWidth": 0.25,
+                "productHeight": 0.45,
+                "productMaxLayer": 8,
+                "productFacet": [
+                    "3"
+                ],
+                "numberOfCase": 0,
+                "numberOfItem": 5,
+                "numberPerCase": 1
+            },
+            {
+                "order_ID": "9520859938",
+                "customerCode": "5000014673",
+                "product_ID": "SKU539",
+                "productCode": "NC-SK1BRA",
+                "productName": "NC-SK1BRA",
+                "productVolume": 0.01239,
+                "productWeight": 1,
+                "productLength": 0.23500000000000001,
+                "productWidth": 0.195,
+                "productHeight": 0.27,
+                "productMaxLayer": 12,
+                "productFacet": [
+                    "3"
+                ],
+                "numberOfCase": 0,
+                "numberOfItem": 1,
+                "numberPerCase": 4
+            },
+            {
+                "order_ID": "9520859938",
+                "customerCode": "5000014673",
+                "product_ID": "SKU525",
+                "productCode": "NC-EG4000CSY",
+                "productName": "NC-EG4000CSY",
+                "productVolume": 0.02678,
+                "productWeight": 3,
+                "productLength": 0.31,
+                "productWidth": 0.24,
+                "productHeight": 0.36,
+                "productMaxLayer": 10,
+                "productFacet": [
+                    "3"
+                ],
+                "numberOfCase": 0,
+                "numberOfItem": 1,
+                "numberPerCase": 1
+            },
+            {
+                "order_ID": "9520859938",
+                "customerCode": "5000014673",
+                "product_ID": "SKU542",
+                "productCode": "NC-HU301PZSY",
+                "productName": "NC-HU301PZSY",
+                "productVolume": 0.02917,
+                "productWeight": 4,
+                "productLength": 0.33999999999999997,
+                "productWidth": 0.26,
+                "productHeight": 0.32999999999999996,
+                "productMaxLayer": 12,
+                "productFacet": [
+                    "3"
+                ],
+                "numberOfCase": 0,
+                "numberOfItem": 5,
+                "numberPerCase": 1
+            },
+            {
+                "order_ID": "9520859938",
+                "customerCode": "5000014673",
+                "product_ID": "SKU528",
+                "productCode": "EH-ND30-P645",
+                "productName": "EH-ND30-P645",
+                "productVolume": 0.00303,
+                "productWeight": 0.03321789,
+                "productLength": 0.12,
+                "productWidth": 0.105,
+                "productHeight": 0.24,
+                "productMaxLayer": 8,
+                "productFacet": [
+                    "3"
+                ],
+                "numberOfCase": 0,
+                "numberOfItem": 1,
+                "numberPerCase": 10
+            },
+            {
+                "order_ID": "9520859938",
+                "customerCode": "5000014673",
+                "product_ID": "SKU527",
+                "productCode": "EH-NE20-K645",
+                "productName": "EH-NE20-K645",
+                "productVolume": 0.00303,
+                "productWeight": 0.03321789,
+                "productLength": 0.12,
+                "productWidth": 0.105,
+                "productHeight": 0.24,
+                "productMaxLayer": 7,
+                "productFacet": [
+                    "3"
+                ],
+                "numberOfCase": 0,
+                "numberOfItem": 1,
+                "numberPerCase": 10
+            },
+            {
+                "order_ID": "9520859938",
+                "customerCode": "5000014673",
+                "product_ID": "SKU545",
+                "productCode": "MC-CJ911RN49",
+                "productName": "MC-CJ911RN49",
+                "productVolume": 0.07925,
+                "productWeight": 11,
+                "productLength": 0.63,
+                "productWidth": 0.33999999999999997,
+                "productHeight": 0.37,
+                "productMaxLayer": 12,
+                "productFacet": [
+                    "3"
+                ],
+                "numberOfCase": 0,
+                "numberOfItem": 1,
+                "numberPerCase": 1
+            },
+            {
+                "order_ID": "9520859938",
+                "customerCode": "5000014673",
+                "product_ID": "SKU538",
+                "productCode": "NN-GD37HBYUE",
+                "productName": "NN-GD37HBYUE",
+                "productVolume": 0.07415,
+                "productWeight": 12,
+                "productLength": 0.5349999999999999,
+                "productWidth": 0.42000000000000004,
+                "productHeight": 0.32999999999999996,
+                "productMaxLayer": 12,
+                "productFacet": [
+                    "3"
+                ],
+                "numberOfCase": 0,
+                "numberOfItem": 1,
+                "numberPerCase": 1
+            },
+            {
+                "order_ID": "9520859938",
+                "customerCode": "5000014673",
+                "product_ID": "SKU533",
+                "productCode": "NN-CT36HBYUE",
+                "productName": "NN-CT36HBYUE",
+                "productVolume": 0.07841,
+                "productWeight": 14,
+                "productLength": 0.54,
+                "productWidth": 0.44000000000000006,
+                "productHeight": 0.32999999999999996,
+                "productMaxLayer": 9,
+                "productFacet": [
+                    "3"
+                ],
+                "numberOfCase": 0,
+                "numberOfItem": 3,
+                "numberPerCase": 1
+            },
+            {
+                "order_ID": "9520859938",
+                "customerCode": "5000014673",
+                "product_ID": "SKU534",
+                "productCode": "MX-V300KRA",
+                "productName": "MX-V300KRA",
+                "productVolume": 0.02757,
+                "productWeight": 7,
+                "productLength": 0.43499999999999994,
+                "productWidth": 0.39,
+                "productHeight": 0.325,
+                "productMaxLayer": 10,
+                "productFacet": [
+                    "3"
+                ],
+                "numberOfCase": 0,
+                "numberOfItem": 1,
+                "numberPerCase": 10
+            },
+            {
+                "order_ID": "9520859938",
+                "customerCode": "5000014673",
+                "product_ID": "SKU526",
+                "productCode": "NI-M300TVRA",
+                "productName": "NI-M300TVRA",
+                "productVolume": 0.00592,
+                "productWeight": 1,
+                "productLength": 0.305,
+                "productWidth": 0.125,
+                "productHeight": 0.155,
+                "productMaxLayer": 8,
+                "productFacet": [
+                    "3"
+                ],
+                "numberOfCase": 0,
+                "numberOfItem": 1,
+                "numberPerCase": 1
+            },
+            {
+                "order_ID": "9520859938",
+                "customerCode": "5000014673",
+                "product_ID": "SKU529",
+                "productCode": "SR-CX188SRA",
+                "productName": "SR-CX188SRA",
+                "productVolume": 0.03876,
+                "productWeight": 5,
+                "productLength": 0.425,
+                "productWidth": 0.32,
+                "productHeight": 0.28500000000000003,
+                "productMaxLayer": 14,
+                "productFacet": [
+                    "3"
+                ],
+                "numberOfCase": 0,
+                "numberOfItem": 1,
+                "numberPerCase": 1
+            },
+            {
+                "order_ID": "9520859938",
+                "customerCode": "5000014673",
+                "product_ID": "SKU536",
+                "productCode": "MX-M200WRA",
+                "productName": "MX-M200WRA",
+                "productVolume": 0.02169,
+                "productWeight": 3,
+                "productLength": 0.255,
+                "productWidth": 0.21000000000000002,
+                "productHeight": 0.40499999999999997,
+                "productMaxLayer": 8,
+                "productFacet": [
+                    "3"
+                ],
+                "numberOfCase": 0,
+                "numberOfItem": 11,
+                "numberPerCase": 1
+            },
+            {
+                "order_ID": "9520859938",
+                "customerCode": "5000014673",
+                "product_ID": "SKU540",
+                "productCode": "EH-HV52-K645",
+                "productName": "EH-HV52-K645",
+                "productVolume": 0.00495,
+                "productWeight": 0.05426685,
+                "productLength": 0.39,
+                "productWidth": 0.195,
+                "productHeight": 0.065,
+                "productMaxLayer": 5,
+                "productFacet": [
+                    "3"
+                ],
+                "numberOfCase": 0,
+                "numberOfItem": 3,
+                "numberPerCase": 10
+            },
+            {
+                "order_ID": "9520859938",
+                "customerCode": "5000014673",
+                "product_ID": "SKU532",
+                "productCode": "MK-GH3WRA",
+                "productName": "MK-GH3WRA",
+                "productVolume": 0.0054,
+                "productWeight": 1,
+                "productLength": 0.225,
+                "productWidth": 0.12,
+                "productHeight": 0.2,
+                "productMaxLayer": 12,
+                "productFacet": [
+                    "3"
+                ],
+                "numberOfCase": 0,
+                "numberOfItem": 1,
+                "numberPerCase": 1
+            },
+            {
+                "order_ID": "9520859938",
+                "customerCode": "5000014673",
+                "product_ID": "SKU537",
+                "productCode": "MC-CL789RN49",
+                "productName": "MC-CL789RN49",
+                "productVolume": 0.06171,
+                "productWeight": 8,
+                "productLength": 0.55,
+                "productWidth": 0.32999999999999996,
+                "productHeight": 0.33999999999999997,
+                "productMaxLayer": 9,
+                "productFacet": [
+                    "3"
+                ],
+                "numberOfCase": 0,
+                "numberOfItem": 1,
+                "numberPerCase": 1
+            },
+            {
+                "order_ID": "9520859938",
+                "customerCode": "5000014673",
+                "product_ID": "SKU531",
+                "productCode": "MC-CL787TN49",
+                "productName": "MC-CL787TN49",
+                "productVolume": 0.06171,
+                "productWeight": 5,
+                "productLength": 0.55,
+                "productWidth": 0.32999999999999996,
+                "productHeight": 0.33999999999999997,
+                "productMaxLayer": 9,
+                "productFacet": [
+                    "3"
+                ],
+                "numberOfCase": 0,
+                "numberOfItem": 1,
+                "numberPerCase": 1
+            },
+            {
+                "order_ID": "9520859938",
+                "customerCode": "5000014673",
+                "product_ID": "SKU541",
+                "productCode": "SR-GA721WRA",
+                "productName": "SR-GA721WRA",
+                "productVolume": 0.1,
+                "productWeight": 14,
+                "productLength": 0.53,
+                "productWidth": 0.53,
+                "productHeight": 0.37,
+                "productMaxLayer": 10,
+                "productFacet": [
+                    "3"
+                ],
+                "numberOfCase": 0,
+                "numberOfItem": 2,
+                "numberPerCase": 1
+            },
+            {
+                "order_ID": "9520859938",
+                "customerCode": "5000014673",
+                "product_ID": "SKU546",
+                "productCode": "SR-GA321LRA",
+                "productName": "SR-GA321LRA",
+                "productVolume": 0.04,
+                "productWeight": 6,
+                "productLength": 0.42,
+                "productWidth": 0.42,
+                "productHeight": 0.24,
+                "productMaxLayer": 10,
+                "productFacet": [
+                    "3"
+                ],
+                "numberOfCase": 0,
+                "numberOfItem": 1,
+                "numberPerCase": 1
+            },
+            {
+                "order_ID": "9520859938",
+                "customerCode": "5000014673",
+                "product_ID": "SKU544",
+                "productCode": "NN-DS596BYUE",
+                "productName": "NN-DS596BYUE",
+                "productVolume": 0.15,
+                "productWeight": 16,
+                "productLength": 0.58,
+                "productWidth": 0.57,
+                "productHeight": 0.44,
+                "productMaxLayer": 10,
+                "productFacet": [
+                    "3"
+                ],
+                "numberOfCase": 0,
+                "numberOfItem": 1,
+                "numberPerCase": 1
+            },
+            {
+                "order_ID": "9520859938",
+                "customerCode": "5000014673",
+                "product_ID": "SKU543",
+                "productCode": "SR-WN36WRA",
+                "productName": "SR-WN36WRA",
+                "productVolume": 0.03,
+                "productWeight": 4,
+                "productLength": 0.35,
+                "productWidth": 0.35,
+                "productHeight": 0.28,
+                "productMaxLayer": 12,
+                "productFacet": [
+                    "3"
+                ],
+                "numberOfCase": 0,
+                "numberOfItem": 2,
+                "numberPerCase": 1
+            },
+            {
+                "order_ID": "9520859938",
+                "customerCode": "5000014673",
+                "product_ID": "SKU530",
+                "productCode": "NI-U400CPRA",
+                "productName": "NI-U400CPRA",
+                "productVolume": 0.01,
+                "productWeight": 2,
+                "productLength": 0.33,
+                "productWidth": 0.15,
+                "productHeight": 0.17,
+                "productMaxLayer": 7,
+                "productFacet": [
+                    "3"
+                ],
+                "numberOfCase": 0,
+                "numberOfItem": 2,
+                "numberPerCase": 1
+            },
+            {
+                "order_ID": "9520861021",
+                "customerCode": "6000013738",
+                "product_ID": "SKU490",
+                "productCode": "NR-BV280QSVN",
+                "productName": "NR-BV280QSVN",
+                "productVolume": 0.75302,
+                "productWeight": 61,
+                "productLength": 0.74,
+                "productWidth": 0.64,
+                "productHeight": 1.59,
+                "productMaxLayer": 3,
+                "productFacet": [
+                    "3"
+                ],
+                "numberOfCase": 0,
+                "numberOfItem": 1,
+                "numberPerCase": 1
+            },
+            {
+                "order_ID": "9520858885",
+                "customerCode": "6000013738",
+                "product_ID": "SKU489",
+                "productCode": "NA-FD10VR1BV",
+                "productName": "NA-FD10VR1BV",
+                "productVolume": 0.5829,
+                "productWeight": 47,
+                "productLength": 0.75,
+                "productWidth": 0.67,
+                "productHeight": 1.16,
+                "productMaxLayer": 4,
+                "productFacet": [
+                    "3"
+                ],
+                "numberOfCase": 0,
+                "numberOfItem": 1,
+                "numberPerCase": 1
+            },
+            {
+                "order_ID": "9520859925",
+                "customerCode": "5000014630",
+                "product_ID": "SKU523",
+                "productCode": "MJ-68MWRA",
+                "productName": "MJ-68MWRA",
+                "productVolume": 0.02015,
+                "productWeight": 3,
+                "productLength": 0.26,
+                "productWidth": 0.25,
+                "productHeight": 0.31,
+                "productMaxLayer": 10,
+                "productFacet": [
+                    "3"
+                ],
+                "numberOfCase": 0,
+                "numberOfItem": 6,
+                "numberPerCase": 1
+            },
+            {
+                "order_ID": "9520859925",
+                "customerCode": "5000014630",
+                "product_ID": "SKU520",
+                "productCode": "MJ-DJ01SRA",
+                "productName": "MJ-DJ01SRA",
+                "productVolume": 0.03375,
+                "productWeight": 4,
+                "productLength": 0.3,
+                "productWidth": 0.25,
+                "productHeight": 0.45,
+                "productMaxLayer": 8,
+                "productFacet": [
+                    "3"
+                ],
+                "numberOfCase": 0,
+                "numberOfItem": 1,
+                "numberPerCase": 1
+            },
+            {
+                "order_ID": "9520859925",
+                "customerCode": "5000014630",
+                "product_ID": "SKU514",
+                "productCode": "NI-317TVRA",
+                "productName": "NI-317TVRA",
+                "productVolume": 0.1,
+                "productWeight": 1,
+                "productLength": 0.58,
+                "productWidth": 0.27,
+                "productHeight": 0.27,
+                "productMaxLayer": 10,
+                "productFacet": [
+                    "3"
+                ],
+                "numberOfCase": 0,
+                "numberOfItem": 3,
+                "numberPerCase": 10
+            },
+            {
+                "order_ID": "9520859925",
+                "customerCode": "5000014630",
+                "product_ID": "SKU506",
+                "productCode": "NC-EG4000CSY",
+                "productName": "NC-EG4000CSY",
+                "productVolume": 0.02678,
+                "productWeight": 3,
+                "productLength": 0.31,
+                "productWidth": 0.24,
+                "productHeight": 0.36,
+                "productMaxLayer": 10,
+                "productFacet": [
+                    "3"
+                ],
+                "numberOfCase": 0,
+                "numberOfItem": 1,
+                "numberPerCase": 1
+            },
+            {
+                "order_ID": "9520859925",
+                "customerCode": "5000014630",
+                "product_ID": "SKU507",
+                "productCode": "NC-EG3000CSY",
+                "productName": "NC-EG3000CSY",
+                "productVolume": 0.02306,
+                "productWeight": 2,
+                "productLength": 0.31,
+                "productWidth": 0.24,
+                "productHeight": 0.31,
+                "productMaxLayer": 12,
+                "productFacet": [
+                    "3"
+                ],
+                "numberOfCase": 0,
+                "numberOfItem": 1,
+                "numberPerCase": 1
+            },
+            {
+                "order_ID": "9520859925",
+                "customerCode": "5000014630",
+                "product_ID": "SKU510",
+                "productCode": "MJ-H100WRA",
+                "productName": "MJ-H100WRA",
+                "productVolume": 0.02509,
+                "productWeight": 3,
+                "productLength": 0.27999999999999997,
+                "productWidth": 0.27999999999999997,
+                "productHeight": 0.32,
+                "productMaxLayer": 12,
+                "productFacet": [
+                    "3"
+                ],
+                "numberOfCase": 0,
+                "numberOfItem": 2,
+                "numberPerCase": 1
+            },
+            {
+                "order_ID": "9520859925",
+                "customerCode": "5000014630",
+                "product_ID": "SKU521",
+                "productCode": "MC-CG371AN46",
+                "productName": "MC-CG371AN46",
+                "productVolume": 0.04277,
+                "productWeight": 6,
+                "productLength": 0.48,
+                "productWidth": 0.32999999999999996,
+                "productHeight": 0.27,
+                "productMaxLayer": 8,
+                "productFacet": [
+                    "3"
+                ],
+                "numberOfCase": 0,
+                "numberOfItem": 4,
+                "numberPerCase": 1
+            },
+            {
+                "order_ID": "9520859925",
+                "customerCode": "5000014630",
+                "product_ID": "SKU508",
+                "productCode": "EH-NE20-K645",
+                "productName": "EH-NE20-K645",
+                "productVolume": 0.00303,
+                "productWeight": 0.03321789,
+                "productLength": 0.12,
+                "productWidth": 0.105,
+                "productHeight": 0.24,
+                "productMaxLayer": 7,
+                "productFacet": [
+                    "3"
+                ],
+                "numberOfCase": 0,
+                "numberOfItem": 1,
+                "numberPerCase": 10
+            },
+            {
+                "order_ID": "9520859925",
+                "customerCode": "5000014630",
+                "product_ID": "SKU517",
+                "productCode": "SR-MVQ187SRA",
+                "productName": "SR-MVQ187SRA",
+                "productVolume": 0.03277,
+                "productWeight": 3,
+                "productLength": 0.32,
+                "productWidth": 0.32,
+                "productHeight": 0.32,
+                "productMaxLayer": 12,
+                "productFacet": [
+                    "3"
+                ],
+                "numberOfCase": 0,
+                "numberOfItem": 1,
+                "numberPerCase": 1
+            },
+            {
+                "order_ID": "9520859925",
+                "customerCode": "5000014630",
+                "product_ID": "SKU524",
+                "productCode": "NN-GD37HBYUE",
+                "productName": "NN-GD37HBYUE",
+                "productVolume": 0.07415,
+                "productWeight": 12,
+                "productLength": 0.5349999999999999,
+                "productWidth": 0.42000000000000004,
+                "productHeight": 0.32999999999999996,
+                "productMaxLayer": 12,
+                "productFacet": [
+                    "3"
+                ],
+                "numberOfCase": 0,
+                "numberOfItem": 1,
+                "numberPerCase": 1
+            },
+            {
+                "order_ID": "9520859925",
+                "customerCode": "5000014630",
+                "product_ID": "SKU518",
+                "productCode": "SR-MVN107LRA",
+                "productName": "SR-MVN107LRA",
+                "productVolume": 0.0214,
+                "productWeight": 2,
+                "productLength": 0.274,
+                "productWidth": 0.274,
+                "productHeight": 0.28500000000000003,
+                "productMaxLayer": 12,
+                "productFacet": [
+                    "3"
+                ],
+                "numberOfCase": 0,
+                "numberOfItem": 1,
+                "numberPerCase": 1
+            },
+            {
+                "order_ID": "9520859925",
+                "customerCode": "5000014630",
+                "product_ID": "SKU511",
+                "productCode": "SR-MVN187LRA",
+                "productName": "SR-MVN187LRA",
+                "productVolume": 0.02919,
+                "productWeight": 3,
+                "productLength": 0.302,
+                "productWidth": 0.302,
+                "productHeight": 0.32,
+                "productMaxLayer": 12,
+                "productFacet": [
+                    "3"
+                ],
+                "numberOfCase": 0,
+                "numberOfItem": 1,
+                "numberPerCase": 1
+            },
+            {
+                "order_ID": "9520859925",
+                "customerCode": "5000014630",
+                "product_ID": "SKU519",
+                "productCode": "SR-CP188NRA",
+                "productName": "SR-CP188NRA",
+                "productVolume": 0.03876,
+                "productWeight": 4,
+                "productLength": 0.425,
+                "productWidth": 0.32,
+                "productHeight": 0.28500000000000003,
+                "productMaxLayer": 14,
+                "productFacet": [
+                    "3"
+                ],
+                "numberOfCase": 0,
+                "numberOfItem": 4,
+                "numberPerCase": 1
+            },
+            {
+                "order_ID": "9520859925",
+                "customerCode": "5000014630",
+                "product_ID": "SKU512",
+                "productCode": "SR-CX188SRA",
+                "productName": "SR-CX188SRA",
+                "productVolume": 0.03876,
+                "productWeight": 5,
+                "productLength": 0.425,
+                "productWidth": 0.32,
+                "productHeight": 0.28500000000000003,
+                "productMaxLayer": 14,
+                "productFacet": [
+                    "3"
+                ],
+                "numberOfCase": 0,
+                "numberOfItem": 1,
+                "numberPerCase": 1
+            },
+            {
+                "order_ID": "9520859925",
+                "customerCode": "5000014630",
+                "product_ID": "SKU509",
+                "productCode": "MX-M200GRA",
+                "productName": "MX-M200GRA",
+                "productVolume": 0.02169,
+                "productWeight": 3,
+                "productLength": 0.255,
+                "productWidth": 0.21000000000000002,
+                "productHeight": 0.40499999999999997,
+                "productMaxLayer": 8,
+                "productFacet": [
+                    "3"
+                ],
+                "numberOfCase": 0,
+                "numberOfItem": 1,
+                "numberPerCase": 1
+            },
+            {
+                "order_ID": "9520859925",
+                "customerCode": "5000014630",
+                "product_ID": "SKU522",
+                "productCode": "MX-M200WRA",
+                "productName": "MX-M200WRA",
+                "productVolume": 0.02169,
+                "productWeight": 3,
+                "productLength": 0.255,
+                "productWidth": 0.21000000000000002,
+                "productHeight": 0.40499999999999997,
+                "productMaxLayer": 8,
+                "productFacet": [
+                    "3"
+                ],
+                "numberOfCase": 0,
+                "numberOfItem": 5,
+                "numberPerCase": 1
+            },
+            {
+                "order_ID": "9520859925",
+                "customerCode": "5000014630",
+                "product_ID": "SKU515",
+                "productCode": "MK-GH3WRA",
+                "productName": "MK-GH3WRA",
+                "productVolume": 0.0054,
+                "productWeight": 1,
+                "productLength": 0.225,
+                "productWidth": 0.12,
+                "productHeight": 0.2,
+                "productMaxLayer": 12,
+                "productFacet": [
+                    "3"
+                ],
+                "numberOfCase": 0,
+                "numberOfItem": 1,
+                "numberPerCase": 1
+            },
+            {
+                "order_ID": "9520859925",
+                "customerCode": "5000014630",
+                "product_ID": "SKU513",
+                "productCode": "MC-CL787TN49",
+                "productName": "MC-CL787TN49",
+                "productVolume": 0.06171,
+                "productWeight": 5,
+                "productLength": 0.55,
+                "productWidth": 0.32999999999999996,
+                "productHeight": 0.33999999999999997,
+                "productMaxLayer": 9,
+                "productFacet": [
+                    "3"
+                ],
+                "numberOfCase": 0,
+                "numberOfItem": 2,
+                "numberPerCase": 1
+            },
+            {
+                "order_ID": "9520859925",
+                "customerCode": "5000014630",
+                "product_ID": "SKU516",
+                "productCode": "SR-MVQ187VRA",
+                "productName": "SR-MVQ187VRA",
+                "productVolume": 0.03,
+                "productWeight": 3,
+                "productLength": 0.32,
+                "productWidth": 0.32,
+                "productHeight": 0.32,
+                "productMaxLayer": 12,
+                "productFacet": [
+                    "3"
+                ],
+                "numberOfCase": 0,
+                "numberOfItem": 1,
+                "numberPerCase": 1
+            },
+            {
+                "order_ID": "9520860498",
+                "customerCode": "6000009363",
+                "product_ID": "SKU491",
+                "productCode": "NR-BV320GKVN",
+                "productName": "NR-BV320GKVN",
+                "productVolume": 0.858,
+                "productWeight": 66,
+                "productLength": 0.75,
+                "productWidth": 0.65,
+                "productHeight": 1.7600000000000002,
+                "productMaxLayer": 3,
+                "productFacet": [
+                    "3"
+                ],
+                "numberOfCase": 0,
+                "numberOfItem": 3,
+                "numberPerCase": 1
+            },
+            {
+                "order_ID": "9520860490",
+                "customerCode": "6000009363",
+                "product_ID": "SKU492",
+                "productCode": "NR-BV280QSVN",
+                "productName": "NR-BV280QSVN",
+                "productVolume": 0.75302,
+                "productWeight": 61,
+                "productLength": 0.74,
+                "productWidth": 0.64,
+                "productHeight": 1.59,
+                "productMaxLayer": 3,
+                "productFacet": [
+                    "3"
+                ],
+                "numberOfCase": 0,
+                "numberOfItem": 3,
+                "numberPerCase": 1
+            },
+            {
+                "order_ID": "9520859926",
+                "customerCode": "5000014629",
+                "product_ID": "SKU503",
+                "productCode": "MJ-DJ01SRA",
+                "productName": "MJ-DJ01SRA",
+                "productVolume": 0.03375,
+                "productWeight": 4,
+                "productLength": 0.3,
+                "productWidth": 0.25,
+                "productHeight": 0.45,
+                "productMaxLayer": 8,
+                "productFacet": [
+                    "3"
+                ],
+                "numberOfCase": 0,
+                "numberOfItem": 3,
+                "numberPerCase": 1
+            },
+            {
+                "order_ID": "9520859926",
+                "customerCode": "5000014629",
+                "product_ID": "SKU499",
+                "productCode": "NI-317TVRA",
+                "productName": "NI-317TVRA",
+                "productVolume": 0.1,
+                "productWeight": 1,
+                "productLength": 0.58,
+                "productWidth": 0.27,
+                "productHeight": 0.27,
+                "productMaxLayer": 10,
+                "productFacet": [
+                    "3"
+                ],
+                "numberOfCase": 0,
+                "numberOfItem": 3,
+                "numberPerCase": 10
+            },
+            {
+                "order_ID": "9520859926",
+                "customerCode": "5000014629",
+                "product_ID": "SKU493",
+                "productCode": "NC-EG4000CSY",
+                "productName": "NC-EG4000CSY",
+                "productVolume": 0.02678,
+                "productWeight": 3,
+                "productLength": 0.31,
+                "productWidth": 0.24,
+                "productHeight": 0.36,
+                "productMaxLayer": 10,
+                "productFacet": [
+                    "3"
+                ],
+                "numberOfCase": 0,
+                "numberOfItem": 1,
+                "numberPerCase": 1
+            },
+            {
+                "order_ID": "9520859926",
+                "customerCode": "5000014629",
+                "product_ID": "SKU498",
+                "productCode": "NC-BG3000CSY",
+                "productName": "NC-BG3000CSY",
+                "productVolume": 0.02306,
+                "productWeight": 3,
+                "productLength": 0.31,
+                "productWidth": 0.24,
+                "productHeight": 0.31,
+                "productMaxLayer": 12,
+                "productFacet": [
+                    "3"
+                ],
+                "numberOfCase": 0,
+                "numberOfItem": 1,
+                "numberPerCase": 1
+            },
+            {
+                "order_ID": "9520859926",
+                "customerCode": "5000014629",
+                "product_ID": "SKU494",
+                "productCode": "NC-EG3000CSY",
+                "productName": "NC-EG3000CSY",
+                "productVolume": 0.02306,
+                "productWeight": 2,
+                "productLength": 0.31,
+                "productWidth": 0.24,
+                "productHeight": 0.31,
+                "productMaxLayer": 12,
+                "productFacet": [
+                    "3"
+                ],
+                "numberOfCase": 0,
+                "numberOfItem": 3,
+                "numberPerCase": 1
+            },
+            {
+                "order_ID": "9520859926",
+                "customerCode": "5000014629",
+                "product_ID": "SKU501",
+                "productCode": "SR-MVN107LRA",
+                "productName": "SR-MVN107LRA",
+                "productVolume": 0.0214,
+                "productWeight": 2,
+                "productLength": 0.274,
+                "productWidth": 0.274,
+                "productHeight": 0.28500000000000003,
+                "productMaxLayer": 12,
+                "productFacet": [
+                    "3"
+                ],
+                "numberOfCase": 0,
+                "numberOfItem": 1,
+                "numberPerCase": 1
+            },
+            {
+                "order_ID": "9520859926",
+                "customerCode": "5000014629",
+                "product_ID": "SKU496",
+                "productCode": "SR-MVN187LRA",
+                "productName": "SR-MVN187LRA",
+                "productVolume": 0.02919,
+                "productWeight": 3,
+                "productLength": 0.302,
+                "productWidth": 0.302,
+                "productHeight": 0.32,
+                "productMaxLayer": 12,
+                "productFacet": [
+                    "3"
+                ],
+                "numberOfCase": 0,
+                "numberOfItem": 1,
+                "numberPerCase": 1
+            },
+            {
+                "order_ID": "9520859926",
+                "customerCode": "5000014629",
+                "product_ID": "SKU505",
+                "productCode": "NI-M300TARA",
+                "productName": "NI-M300TARA",
+                "productVolume": 0.00592,
+                "productWeight": 1,
+                "productLength": 0.305,
+                "productWidth": 0.125,
+                "productHeight": 0.155,
+                "productMaxLayer": 8,
+                "productFacet": [
+                    "3"
+                ],
+                "numberOfCase": 0,
+                "numberOfItem": 2,
+                "numberPerCase": 1
+            },
+            {
+                "order_ID": "9520859926",
+                "customerCode": "5000014629",
+                "product_ID": "SKU502",
+                "productCode": "SR-CP188NRA",
+                "productName": "SR-CP188NRA",
+                "productVolume": 0.03876,
+                "productWeight": 4,
+                "productLength": 0.425,
+                "productWidth": 0.32,
+                "productHeight": 0.28500000000000003,
+                "productMaxLayer": 14,
+                "productFacet": [
+                    "3"
+                ],
+                "numberOfCase": 0,
+                "numberOfItem": 4,
+                "numberPerCase": 1
+            },
+            {
+                "order_ID": "9520859926",
+                "customerCode": "5000014629",
+                "product_ID": "SKU504",
+                "productCode": "MX-M200WRA",
+                "productName": "MX-M200WRA",
+                "productVolume": 0.02169,
+                "productWeight": 3,
+                "productLength": 0.255,
+                "productWidth": 0.21000000000000002,
+                "productHeight": 0.40499999999999997,
+                "productMaxLayer": 8,
+                "productFacet": [
+                    "3"
+                ],
+                "numberOfCase": 0,
+                "numberOfItem": 4,
+                "numberPerCase": 1
+            },
+            {
+                "order_ID": "9520859926",
+                "customerCode": "5000014629",
+                "product_ID": "SKU497",
+                "productCode": "MX-M210SRA",
+                "productName": "MX-M210SRA",
+                "productVolume": 0.03778,
+                "productWeight": 3,
+                "productLength": 0.505,
+                "productWidth": 0.258,
+                "productHeight": 0.29,
+                "productMaxLayer": 14,
+                "productFacet": [
+                    "3"
+                ],
+                "numberOfCase": 0,
+                "numberOfItem": 3,
+                "numberPerCase": 1
+            },
+            {
+                "order_ID": "9520859926",
+                "customerCode": "5000014629",
+                "product_ID": "SKU495",
+                "productCode": "MK-GB3WRA",
+                "productName": "MK-GB3WRA",
+                "productVolume": 0.01906,
+                "productWeight": 2,
+                "productLength": 0.316,
+                "productWidth": 0.23199999999999998,
+                "productHeight": 0.26,
+                "productMaxLayer": 5,
+                "productFacet": [
+                    "3"
+                ],
+                "numberOfCase": 0,
+                "numberOfItem": 2,
+                "numberPerCase": 1
+            },
+            {
+                "order_ID": "9520859926",
+                "customerCode": "5000014629",
+                "product_ID": "SKU500",
+                "productCode": "MK-GH3WRA",
+                "productName": "MK-GH3WRA",
+                "productVolume": 0.0054,
+                "productWeight": 1,
+                "productLength": 0.225,
+                "productWidth": 0.12,
+                "productHeight": 0.2,
+                "productMaxLayer": 12,
+                "productFacet": [
+                    "3"
+                ],
+                "numberOfCase": 0,
+                "numberOfItem": 3,
+                "numberPerCase": 1
+            }
+        ],
+        "vehicle": {
+            "Code": "61N4611",
+            "Weight": 2000,
+            "Volume": 14.2,
+            "Length": 4.31,
+            "Width": 1.81,
+            "Height": 1.82
+        }
+    }
+}
